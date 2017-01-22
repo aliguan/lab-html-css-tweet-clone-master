@@ -55,5 +55,14 @@ date {
 }
 
 .actions {
-    padding-top: 15px;
+    padding-top: 20px;
+    color: rgb(101, 116, 127);
+}
+.actions span {
+    padding-right: 30px;
+    font-size: 22px;
+}
+.actions img {
+    vertical-align: middle;
+    padding-right: 8px
 }
