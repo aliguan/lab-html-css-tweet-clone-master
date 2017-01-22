@@ -9,3 +9,17 @@ body {
     border-radius: 10px;
     border: 2px solid rgb(225, 232, 237);
 }
+.profilepic {
+    float: left;
+}
+.username {
+    float: left;
+    padding-left: 20px;
+    font-family: sans-serif;
+    font-size: 26px;
+}
+.username p {
+    margin-top: 5px;
+    color: rgb(104, 109, 129);
+    font-size: 20px;
+}
